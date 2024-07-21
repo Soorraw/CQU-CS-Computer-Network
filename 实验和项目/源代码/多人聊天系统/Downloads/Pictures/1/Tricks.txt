@@ -1,0 +1,10 @@
+P5200 [USACO19JAN] Sleepy Cow Sorting G
+P4378 [USACO18OPEN] Out of Sorts S
+P4393 [BOI2007] Sequence 序列问题
+P7399 [COCI2020-2021#5] Po
+P5094 [USACO04OPEN] MooFest G 加强版(距离和=比当前点权值小的点数*当前点原点距离-比当前点小的点的原点距和)
+P8671 [蓝桥杯 2018 国 AC] 约瑟夫环
+P3801 红色的幻想乡
+P2184 贪婪大陆
+P1966 [NOIP2013 提高组] 火柴排队
+P4145 上帝造题的七分钟 2 / 花神游历各国
